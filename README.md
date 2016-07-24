@@ -13,4 +13,7 @@ $ brew install riss
 
 Copyright © 2016 Sentient Lang.
 
-Distributed under the MIT License.
+This homebrew tap is distributed under the MIT License.
+
+Riss has its own license that can be found
+[here](http://tools.computational-logic.org/content/riss/Riss.tar.gz).
